@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "title 1",
+      "author": "author 1"
+    },
+    {
+      "title": "title 2",
+      "author": "author 2",
+      "id": 2
+    },
+    {
+      "title": "title 3",
+      "author": "author 3",
+      "id": 3
+    },
+    {
+      "title": "title 4",
+      "author": "author 4",
+      "id": 4
+    },
+    {
+      "title": "title 5",
+      "author": "author 5",
+      "id": 5
+    },
+    {
+      "title": "title 6",
+      "author": "author 6",
+      "id": 6
+    },
+    {
+      "title": "fdv",
+      "author": "vvv",
+      "id": 7
+    },
+    {
+      "title": "dsf",
+      "author": "sg",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

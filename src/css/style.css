@@ -1,0 +1,21 @@
+.posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.posts > div {
+    padding: 20px;
+    margin: 20px;
+    min-width: 300px;
+    box-shadow: 0 1px 2px 1px #286cc04a;
+}
+
+.posts > div h3 {
+    color: rebeccapurple;
+}
+
+form {
+    margin: 40px;
+    max-width: 400px;
+}
